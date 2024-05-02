@@ -1,0 +1,50 @@
+#                                                             # Level B task 1
+#
+# class Message:
+#     def __init__(self, name, message):
+#         self.name = name
+#         self.message = message
+#
+#     def speech(self):
+#         print(f"{self.name}, {self.message}")
+#
+# message = Message("Bob", "Hello!")
+# message.speech()
+#                                                             # Level B task 2
+#
+# class Message:
+#     def __init__(self, name, message):
+#         self.name = name
+#         self.message = message
+#
+#     def speech(self):
+#         print(f"(«{self.name}», «{self.message}»)")
+#
+#
+# Vasya = Message("Вася", "добрый день")
+# Vasya.speech()
+#
+# Kolya = Message("Коля", "добрый вечер")
+# Kolya.speech()
+#
+#                                                             # Level B task 3
+#
+# class Message:
+#     def __init__(self, name, message):
+#         self.name = name
+#         self.message = message
+#
+#     def talk(self):
+#         print(f"Привет, {self.name}, {self.message}")
+#
+#
+# class Message2(Message):
+#     def talk(self):
+#         print(f"До свидания, {self.name}, {self.message}")
+#
+#
+# message2 = Message2("Коля", "до завтра")
+# message2.goodbye()
+
+
+
