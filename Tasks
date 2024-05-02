@@ -44,7 +44,7 @@
 #
 #
 # message2 = Message2("Коля", "до завтра")
-# message2.goodbye()
+# message2.talk()
 
 
 
